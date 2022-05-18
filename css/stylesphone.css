@@ -1,0 +1,62 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+
+.head{
+  height: 2200px;
+}
+.head h1{
+  /* position: relative; */
+  top: 600px;
+}
+.head h2{
+  top: 600px;
+  font-size: 5.5rem;
+}
+.head img{
+  top: 600px;
+}
+.navigation li{
+  display: block;
+  line-height: 80px;
+  font-size: 30px;
+}
+.a1:hover{
+  color: #8D8DAA;
+  text-decoration: underline;
+}
+
+.mybg{
+  height: 2000px;
+}
+.mybg h1{
+  margin-top: 700px;
+  font-size: 3.5rem;
+}
+.middle{
+  height: 2000px;
+  font-size: 40px;
+  line-height: 30px;
+}
+.cd p{
+  line-height: 50px;
+}
+.cd h3{
+  line-height: 40px;
+}
+.badminton p{
+  line-height: 50px;
+}
+.badminton h3{
+  line-height: 40px;
+}
+.history p{
+  line-height: 50px;
+}
+.history h3{
+  line-height: 40px;
+}
+.contact{
+  height: 200px;
+}

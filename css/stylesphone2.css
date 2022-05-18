@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+#hed{
+height: 2000px;
+}
+.mid {
+  height: 2000px;
+
+}
+#m p{
+font-size: 2.9rem;
+  line-height: 4rem;
+}
+#m h2{
+  font-size: 100px;
+}
+#hed h1{
+font-size: 80px;
+margin-top: 700px;
+}
+#n li{
+  display: block;
+  line-height: 80px;
+  font-size: 30px;
+}
+footer h2{
+  margin-left: 110px;
+  font-size: 30px;
+  width: 75%;
+  line-height: 50px;
+}
